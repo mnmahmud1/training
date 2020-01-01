@@ -27,7 +27,6 @@ body {
     background-color: burlywood;
     text-align: center;
     color: white;
-<<<<<<< HEAD
 }
 
 #footer {
@@ -35,7 +34,6 @@ body {
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
-    text
-=======
->>>>>>> development-1.0
+    text-align: center;
+    color: white;
 }
